@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div>
-      Footer (The website footer is the bottom section)
+      Footer (The website footer is the bottom section, offering essential info (copyright, contact))
     </div>
   )
 }
