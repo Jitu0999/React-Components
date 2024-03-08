@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div>
-      Footer.
+      Footer (The website footer is the bottom section)
     </div>
   )
 }
