@@ -1,7 +1,7 @@
 const Sidebar = () => {
   return (
     <div>
-      Sidebar. ()
+      Sidebar. (The sidebar navigation is)
     </div>
   )
 }
