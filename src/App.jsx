@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar"
 import Sidebar from "./components/Sidebar"
 
 const App = () => {
-  let x = "<b>Conponents</b>"
+  let x = "Conponents"
   return (
     <div>
       {x}
