@@ -4,8 +4,10 @@ import Navbar from "./components/Navbar"
 import Sidebar from "./components/Sidebar"
 
 const App = () => {
+  let x = "Conponents"
   return (
     <div>
+      {x}
       <Banner/>
       <Footer/>
       <Navbar/>
